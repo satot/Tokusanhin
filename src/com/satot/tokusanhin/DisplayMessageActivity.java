@@ -68,9 +68,9 @@ public class DisplayMessageActivity extends Activity {
 	
 	// 次のクイズに移行
 	public void gotoNextQuiz(View view){
-		Integer quizNo = quizNo + 1 ;
+		//Integer quizNo = quizNo + 1 ;
 		Intent intent = new Intent(this, MainActivity.class);
-        intent.putExtra(EXTRA_QUIZ_NO, quizNo);
+        //intent.putExtra(EXTRA_QUIZ_NO, quizNo);
 		startActivity(intent);
 	}
 

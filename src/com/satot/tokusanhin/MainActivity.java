@@ -24,8 +24,8 @@ public class MainActivity extends Activity {
         // activity_main を描画
         setContentView(R.layout.activity_main);
         // quiz番号
-        TextView quizNo = (TextView) findViewById(R.id.QuizNo);
-        quizNo.setText(2);
+        //TextView quizNo = (TextView) findViewById(R.id.QuizNo);
+        //quizNo.setText(2);
         // 選択肢をセット
         Button answer1 = (Button) findViewById(R.id.Button01);
         Button answer2 = (Button) findViewById(R.id.Button02);
