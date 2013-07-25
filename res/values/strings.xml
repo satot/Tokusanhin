@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tokusanhin</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_no">Q1.</string>
+    <string name="question">What is the famous souvenir of Hamamatsu?</string>
+    <string name="go_to_next">Go to Next</string>
+    <string name="answer1">Piano</string>
+    <string name="answer2">Motobike</string>
+    <string name="answer3">Eel</string>
+    <string name="answer4">Mikan</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+
+</resources>
